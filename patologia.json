@@ -1,0 +1,8409 @@
+[
+  {
+    "text": "1p/19q-FISH",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "3D-ulotteinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "AAH (Atypical Adenomatous Hyperplasia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "abdominaaliaortta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aberrantti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ablaatiopreparaatti eksu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "accreta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "acromelia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "acrosyringeum/acrosyringium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "adenokarsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "adenooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ADH-muutos (rinnassa, atypical ductal hyperplasia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "adiposyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "adventitia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "agenesis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aivokammio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aivorunko",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "akantoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "akinaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aktiininen keiliitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "akvedukti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "alfa-alayksikkö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "allantoisontelo",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Alpha B-Crystallin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ALVAL score",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "amfofiilinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "amnion",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "amnionkalvo",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "amnionneste",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "amorfinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "amyloidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anaplastinen karsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anenkefalia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aneurysmasäkki",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "angioectasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "angioinvaasio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anhydramnion",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anomalia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anovulatorinen sykli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anti-IgA",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anti-IgG",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "anti-IgM",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "antisyntetaasisyndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Antoni A-/B-alue",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "antraalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "antrakoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aortiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "APDS (activated phosphoinositide 3-kinase δ syndrome)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aplasia cutis congenita (ACC)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "apokriininen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "apoptoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "apuelin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ARDS (Acute Respiratory Distress Syndrome)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Arias-Stella",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "AR-sinus (Aschoff-Rokitansky)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "artefaktaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arteria brachialis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arteria cerebri media",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arterioli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arterioloskleroosi (ks. myös ateroskleroosi ja arterioskleroosi)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arterioskleroosi (ks. myös ateroskleroosi ja arterioloskleroosi)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arthrogryposis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "arytmogeeninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Aschoffin kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ascites/askites",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ASD (atrial septal defect)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "asetyylikoliiniesteraasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "asfyksia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "asfyktinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "asidofiiliset kappaleet",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "asinaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "asinus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aspergilloosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aspiraatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "astrosytooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "aterooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ateroskleroosi (ks. myös arterioskleroosi ja arterioloskleroosi)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ATPaasi-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "atrofinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "atypia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "AUS/FLUS (atypia (or follicular lesion) of undetermined significance)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "autofaginen vakuolisaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "autolyyttinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "balanitis xerotica obliterans (BXO)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "BAL-näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Banff-score",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "basaalimembraani",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "basaloidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Basofiilinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "benigni",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Bethesda-luokitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Bielschowsky",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bifaasinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bioderma gangrenosum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "biopsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "blasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "blastiylimäärä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "BOB.1 (antigeeni)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "body stalk anomaly",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bony spur -muodostus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "border line -tuumori",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Borst-Jadassohn-ilmiö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Bowenin tauti (morbus Bowen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bowenoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Bowmanin kapseli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Bowmanin membraani",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Braak stage",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Brennerin tuumori",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bronchial cleft -fisteli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bronkiektasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bronkioli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bronkus/bronchus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bronkuspuusto",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Brunnerin rauhaset",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "brush border",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bulbus duodeni",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "bunch-pala",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CADI-score",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "caecal patch -leesio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CAE-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Cajalin solut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Call-Exner -kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Calretinin (kalretiniini)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Calsequestrin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CAN-prosessi (Compliance Application Notice)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "canthus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "caruncula",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "casting-tyyppiset kalkit (casting (micro)calcifications)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Cateh 22 -oireyhtymä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "cauda",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CD20 (antigeeni)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CD79a (antigeeni)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "cerebellar vermis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "childblain lupus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "chorangiosis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "chordae tendineae (ei Google-kuvahakua!)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "chorioamnioniitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "chorion",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "chorion leve",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "choroid plexus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Churg-Straussin oireyhtymä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CIN-muutos (CIN 1, 2…) (Cervical Intraepithelial Neoplasia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CIPD-tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "circulus Willis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "circumvallata",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CISH (Chromogenic In Situ Hybridization)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Civatten kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "cloaca",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "collagenous sphenulosis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "colloid body",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "compositus-tyyppinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Connin syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "core-aukkojen punaisuus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "core-muutos",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "cornu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "corpora amylacea (CA)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "corpus albicans",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "corpus amylaceum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "corpus callosum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Councilmanin kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "crescendo-tyyppinen akantoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "cribriformis (ks. myös kribriforminen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "CR-mitta (sikiön pää-vartalomitta)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "crusta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Currarino-syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Cytoblock-näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Dandy-Walker-anomalia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "debris",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "decidua",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "decidua capsularis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dedifferentaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dekalsifiaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "deleetio 22q11.2",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "depleetio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dermatofibrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dermatomi (yhden hermon hermottama ihoalue)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dermis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dermoidikysta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Descemetin membraani",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "desiduaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "deskvamaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Desmin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "desmoplastinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "DHPR",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "diafragma / diaphragma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "diamniaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "diandric triploidia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Dieulafoy-tyyppinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Diffi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "diffuusi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "digyninen triploidia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dikoriaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dilatoitunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "DIPNECH (diffuse idiopathic pulmonary neuroendocrine cell hyperplasia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dissekoida",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dissekoija",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "distribuutio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "DLE (Discoid Lupus Erythematosus)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dorsaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dorsum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Dowling-Degos disease (DDD)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dreneeraava imusolmuke",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dry tap -näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "DTGC (progressively transformed germinal center)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ductal plate malformation",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "duktaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "duktektasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "duktolobulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dura-kalvosto",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Dutcher-kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "dyskeratoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Dystrophin 2",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "EATL(-lymfooma)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Ebstein anomaly",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "EBUS-näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "EBV (Ebstein-Barr-virus)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ectocervix",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "edeema (ödeema)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "EGIN (endocervical glandular intraepithelial neoplasia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "EIC (Extensive Intraductal Component)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekkriininen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekkriininen hidradeniitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "eklampsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekriini porooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "eksokriininen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "eksoservikaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekspressoida",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekstramuraalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekstranodaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekstraprostaattinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ekstrasellulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "elastoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "elatusneste",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "elongoitunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "embolia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "emfyseema",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "emfyseemabulla",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "empyeema",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endocervikaalinen / endokervikaalinen / endoservikaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endocervix",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endokriininen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endometriitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endometrioidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endomysium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Endorette-näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endosalpingioosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "endotelialiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "enkefaloseele",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "enkondrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "enterogeeninen epidermotropismi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "eosinofiilinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ependydooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ependyyma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "epidermoidikysta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "epididymis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "epiglottic vallecula",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "epignathus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "epooforon / epoophoron",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ER/PR (Estrogen Receptor/Progesterone Receptor)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Erdheim-Chesterin tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "erodoitunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "erythema chronicum migrans",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "erytroblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "erytropoieesi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "esofagiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "estrogeeniefekti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "estrogeenireseptori",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "eteiskorvake",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "etiologia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "exocervix",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fagosytoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "falx",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Fan-luokitus (NLPHL, luokat A-F)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "faskikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "FDC-solu (Follicular dendritic cells)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fekaliitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "femur",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fenotyyppi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fetofetaali transfuusio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fetoplasentaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibriinidepositio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibriinikate",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibrinopurulentti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibroblasti(tulppa)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibroepiteliaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibrohistiosytäärinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibromuskulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibroosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibroottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fibrosis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fiibereiden distribuutio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fiiberit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fimbria",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "FISH-testi (Fluorescence In Situ Hybridization)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fisteli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "foamy gland",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fontanelli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "foramen magnum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "foramen ovale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Fordyce spot",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "formaliinifiksaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "fossa piriformis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "foveolaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "funikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "funisiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Galli-Galli-tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ganglio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gangliosytooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gangrenoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gastriitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gastrocnemius medialis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "GC-tyypin lymfooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gemistosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Germinaalimatriksi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gerotan faskia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gerotan rasva",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gestaatioikä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gianotti-Crosti-syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "giardia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Giemsa-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glabella",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glandulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gleason gradus/score",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glioblastooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glioma/gliooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glioosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glioottinen harventuma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gliovaskulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "globulus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glomangiooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glomerulonefriitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glomeruloskleroosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "glomerulus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "goblet-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Goebeler, Sirkka (konsultoitava oikeuslääkäri)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gomorin värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gonadotropinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gougerot-Blum-purppura",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "graft-versus-host-reaktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "granula",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "granulooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "granulopoieesi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "granulosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "groove",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Gross cystic disease fluid protein-15 (GCDFP-15)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Groverin tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "gyrus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "haamumainen solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Hailey-Haileyn tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "haiman häntä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hajasirotteinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "halo-reaktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Hansin algoritmi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Hashimoton tyreoidiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Hassalin kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HE-lasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HE-leike",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "helikobakteeri (diagnoosin takaliitteessä Helicobacter tai HP)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hemangioendoteliooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hemangioperisytooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hematoksyliini-eosiini/hematoxylin-eosin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hematooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hematopoieesi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hemikolektomia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hemisfääri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hemorragia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hemosideriini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Henoch–Schönlein purpura (HSP)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hepatobiläärinen järjestelmä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hepatosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hermoinvaasio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Herovici",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Herovici-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "heterotopia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HE-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HE-värjäys (hematoksyliini-eosiini)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hidradeniitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "high grade PIN",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "high grade -tasoinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hiilihappoanhydraasi (numerointi roomalaisilla)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hilus pulmonis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Hirschsprungin tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "histiosyytti-infiltraatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "histologia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "histologinen verifikointi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "histopatologia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HLA class I -värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hobnail",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HPF",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "HPV-infektio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hudrokystooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hunajakennomainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyaliiniglobuli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyaliininen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyalynisoituminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hybrid fiber",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hybridifiiberit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hydatidiforminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hydranenkefalia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hydroksiapatiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hydroletalussyndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hydrooppinen degeneraatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hydrothorax",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyperkeratoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyperkromaattinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyperlobulaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hyperreaktiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hypertekoosi / hyperthecosis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hypertrofia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hypoksia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "hypoplastinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Hürtle-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "I- ja II-syytyypit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "iatrogeeninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "IBM-markkeri (inclusion body myositis)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "icterus/ikterus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Id-reaktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "IEL-solut (intraepiteliaaliset lymfosyytit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "IF-tutkimus (immunofluoresenssitutkimus)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ileiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "iliakaalinen, iliaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ILVEN (inflammatory linear verrucous epidermal nevus)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "immunoaktivaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "immunoblottaus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "immunohistokemia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "impetiginoituminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "impetigo",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "imprint(-lasit)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "imutieinvaasio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "in situ -tasoinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Indian file (-solujono/pattern)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "infarktaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "infarktiarpi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "inferiorinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "infiltraatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "inkluusiokappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "inkluusiokappalemyosiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "insertio velamentosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "inspirium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "interfaasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "interstitium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "intervilloottinen/-villööttinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "intestinaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "intima",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "intradermaalineevus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "intrakanalikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "invaginaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "invasiivinenipa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "involoitunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "IPAA-leikkaus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "iskeeminen (taipuu iskeemisiä)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "isthmus/istmus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "itukeskus(muodostus)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "jejunum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Jessnerin lymfosyytti-infiltraatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "junktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "jyväissolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "jälkipositiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "jättisolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "jääleike",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kaave",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kahtaistaittava",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kahvinsumppimainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kainaloevakuaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kainalorasva",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kakektinen / kakeettinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kalretiniini (Calretinin)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kalsiumkanava",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Kamino body",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kampomeelinen dysplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kamptodaktylia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kanalikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kanserisaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kapillaari",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Kaposin sarkooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "karkeaneulabiopsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "karsinoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "karunkkeli (ei Google-kuvahakua!)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "karvafollikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "karyorektinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kaseoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kateenkorva",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kavernoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Kawasakin tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "keratiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "keratiinihelmi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kerebriforminen (tuma)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kihtitofus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kirkassytoplasmainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "klinodaktylia / clinodactylia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "KLL-lymfosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "klonaalinen/klonaliteetti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kloridikanava",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Koebner-ilmiö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Kogoj’n spongiformiset pustelit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "koilosytoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "koilosyytti(atypia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "koinsyömä(-tyyppinen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kokoojatiehyt",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolekystolitiaasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolestaasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolesterolikide",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolesteroloosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolinerginen solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolloidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kolmisuoninen (napanuora)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "komedonekroosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kommunikoiva haara",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kompleksi 4:n S1- ja S2-värjäykset",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "komplementti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "komprimoida",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kondrodermatiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kondrosarkooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kongenitaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kongestio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kongopunavärjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kongovärjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "konisaatti (loop-konisaatti)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "koprostaasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kordooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "korinpohjamainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "korionamnioniitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kornoidi lamella",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kraniaalinen sutura",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Krenn synovitis score",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kribriforminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kristalloidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kromatiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kromofobinen munuaiskarsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "krusta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kryoglobulinemia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "krypta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "krypta-abskessi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "krypta-arkkitehtuuri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kryptiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ksantogranulooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kudosblokki",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kudoskasetti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kudosväri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kulmikkaat syyt",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kuolemanmerkit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Kupfferin solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kutaaninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kuutioepiteeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kypsymishäiriö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Kyrlen tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kystadenofibroosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "kystinen hygrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lacuna (lakuna)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lakkamarjamainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lakunaari-infarkti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Lambert-Eaton-syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lamina muscularis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LAMN-tuumori",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LAMP2",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Langerhansin saareke",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Langhansin jättisolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lateraaliventrikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lautuma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LC3B",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Leder(in värjäys)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leesio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leiomyooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leishmaniaasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lentiginoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lepidi kasvutapa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "letaali aspiraatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leukoklastinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leukomalasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leukosytoklastinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "leukosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "levyepiteeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Lewyn kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Leydigin solut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LGMD1D-tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lichen planus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lichen sclerosus et atrophicus (LSA)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lichenmäinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lienalis-kulma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lieriöepiteeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Lihasbiopsiasanasto:",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "likenoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Lin-Weiss-Bisceglia-kriteerit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lipoblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lipofuskiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LISH (ligation in situ hybridization)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lissenkefalia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LITA/LIMA (valtimoita, vasen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "livedoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LMP-muutos",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lobulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lochkern",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "locus coeruleus (saatetaan sanella \"keraloos\")",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lohkotumainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "loop-konisaatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LOSMoN-tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LP-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "LSA-tauti (lichen sclerosus et atrophicus)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "luinen kalotti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lumen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "luomirako",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lupus band",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Luxol Fast Blue -värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lymfafollikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lymfohistiosytäärinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lymfonodulus / lymfoproliferatiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lymfoproliferatiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lymphonodulus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Lynchin syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "läppäjänne",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "lääkeainereaktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "M:E-suhde (luuytimessä)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "maalitaulumainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "maalitaulusyy",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MAC-värjäys (membrane attack complex), liittyy kapillaarikatoon",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Majocchin granulooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "makrofagi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "maksapeti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MAK-värjäys (anti-MAK immunohistochemistry), liittyy keratiiniin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Malassezia-itiö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "maligni",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Malloryn hyaliini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Mallory-Weiss-haavauma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mamilla",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "manttelivyöhyke",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Marsh-luokitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Marsh-luokitus 0-4",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Masaoka stage",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "maseroitunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Masson-Goldner -trikromivärjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Masson's trichrome",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mastopatia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mastsolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "maternofetaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "matrix/matriksi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Meckelin divertikkeli (Morfologia: Diverticulum, NOS Takaliite: Meckel's)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "meconium/mekonium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mediaalinen lisäoliivitumake",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mediastinum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "medulla oblongata",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "medullaarinen karsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "megakaryosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mekoniummakrofagi/meconium-makrofagi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mekoniumpigmentti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mekoniumpäästö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mekoniumtoksinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "melanofagi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "melanosis coli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MEN1-/MEN2-syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Ménétrier'n tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "meningoenkefaloseele",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "meningoteliaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Merkelin kasvain",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mesangiaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mesenkymaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mesenterium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mesoappendix",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mesoteeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mesoteliaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "metaplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "metaplastinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Metavir-luokitus (arabialaisin numeroin)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "metrorraginen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MFH sarkooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MGMTmet-tutkimus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MGUS-muutos",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MHCd",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MHCd-positiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MHCN",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MHCn",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Miescherin granulooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Miettisen luokitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "migraatiohäiriö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mikrofollikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mikroglandulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mikrognatia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mikronodulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mikropapillaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mikrovesikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "milium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitokompleksi 4:n subunit 4",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitokompleksien kaksoisvärjäykset",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitokompleksivärjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitokondrio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitokondriovärjäykset",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitokondriovärjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitoosiaktiviteetti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mitoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mixed Müllerian tumor",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "MNDcap-geenipaneelitutkimus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mola",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mola hydatidosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "monielinvaurio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "monoklonaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "monosomia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "monsterisolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "morbus Bowen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "morfea/morphea",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "morfologia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Morgagnin tyrä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "morula",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mucoid impaction",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "mucosa/mukoosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "multiminicore disease (MmD)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "multippeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Munron mikroabskessi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "munuaispikari",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "muscularis mucosae",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "musinoottinen/musinöösi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "muskottipähkinäkuvioitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myelopoieesi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myeloproliferatiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myksofibrosarkooma / myxofibrosarcoma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myksoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myksomatoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Müllerin tiehyt",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myocardium / myokardium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myofibrillirakenne",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myogeeninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myoma / myooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myometrium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myosiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myosytolyysi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Myotilin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myotoninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "myotubulus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Nabothin kysta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Naruke-imusolmukekartta/-alue",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nasolabiaali(nen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nefromegalia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nekrobioosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nekroinflammatorinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nemaliinimyopatia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nenämäisesti, nosing",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "neoplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "neurodermatiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "neurogeeninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "neuropiili",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "neutrofiili-infiltraatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "neutrofiilinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nevosytäärinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "NGS (next generation sequencing, massiivinen rinnakkaissekvensointi)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Niemann-Pick-tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "NK-T-solulymfooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "NLPHL",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nodus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "normofollikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "normosellulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "NSIP (Non-Specific Interstitial Pneumonia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nucleus basalis of Meynert",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nucleus dentatus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "nukleoli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "obiliteroitua",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "obturatorinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Oddin sfinkteri / Oddin sulkijalihas",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "OEIS-complex",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ohutneulabiopsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "okkipitaali / occipital",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "oksifiilinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "oligoastrosytooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "oligodendrogliaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "omentti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "omfaloseele",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "onkosytäärinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "onkosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "organisoiva pneumonia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ORO-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ortokeratoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ossifikaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "osteoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "osteoklasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ovalosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "P62",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pacinin kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pacinin keränen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pagetoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PAIN-muutos",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "paksuneulabiopsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pakyguria",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "palisadimainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pancreatic Intraepithelial Neoplasia PanIN-(1 - 3)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Panethin solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PanIn high grade",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pankreatiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pannikuliitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pannus-muodostus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "papillaarilihas",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "papillomatoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "papillomatoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "papillooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "para-aortaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parafibromiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parafiini(kontrolli)leike",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parafiiniblokki",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parakeratoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "paralleeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parametrium, parametria",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "paratyreoidea",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parenkyymi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parietaalilohko",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parietaalipleura",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pariisin luokitus (virtsan sytologia)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "parovariaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "patognomoninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pautrierin abskessi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pax-5 proteiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pax5-geeni",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PAXgene",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PEComa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pellucidum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pelvikset (munuaisaltaat)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pemfigoidi (pemphigoid)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pemphigus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "periappendikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "periasetabulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "peribronkiolaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "perifaskikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "perikardium / pericardium",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "perineuraalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "periosti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "peripankreaattinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "peritoneaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "perivaskulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "periventrikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Peutz-Jeghers-polyyppi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Peyerin keränen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Peyerin plakki",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pfeifferin syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "phyllodes/phylloides(-tuumori)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PIA-muutos",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pienisoluinen karsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pienryhmäatrofia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pigmenttivuoto",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pilomatricoma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pilomatriksooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pilosyyttinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pinkuksen fibroepiteliooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PIN-rauhanen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pipelle-näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pistolet-näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pit-1-transkriptiofaktorivärjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pityriasis lichenoides",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pityriasis rosea",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "placenta accreta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pleksiforminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pleomorfinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pleura",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pleuralehti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pleuraneste",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PLEVA (akuutti hilsejäkälä)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "plexus chorioideus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pneumothorax",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "podoplanin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "poikilosytoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "poikkijuovainen lihas(solu)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "poikkileikkauspinta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "polygonaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "polyklonaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "polyoomavirus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "polysplenia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "popcorn-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "porfyria",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Porin antibody",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "portaalikenttä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "portio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "posteriorinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "postgerminaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pouchiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "preparaatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pretibiaalinen myksödeema",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "processus xiphoideus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "progestiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "proktiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "proliferatiivinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "proteiiniaggregaatit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "prurigo nodularis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "psammooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudodekiduaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudodesiduaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudodesidualisaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pseudodesidualisoitua",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudohyyfi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudoinkluusio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudomembranoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudopolyyppi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudorosetti(rakenne)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pseudostratifikaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "psoas-lihas",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pT1",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pT1bN0",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pT2c-asteinen (karsinooma)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pT3a",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Pt3n0",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pTa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PTGC",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "punasoluvuoto",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PUNLMP",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "puoliohutleike",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Purkinjen solu / Purkinje-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pushing-tyyppinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pustulosis palmoplantaris (PPP)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "PXA (pleomorfinen ksantoastrosytooma)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pyelonefriitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pyknoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pyknoottiset tumakasat",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pyogeeninen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pyometra",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "pyörötumainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Queyratin erytroplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rabdoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rabdomyosarkooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "radial ray",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ragadi/ragadimainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rakkoperitoneum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rasemaasi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rasvanekroosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rasvoittuminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Rathken cleft -kysta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rauhasarkkitehtuuri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rauhasryhmitys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "RCD III",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Reed-Sternbergin solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "repalesyyt",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "resekaatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "resektiodonitsi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "reservuaari",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "respiratorinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rete testis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rete-harjanteet/reteharjanteet",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rete-kielekkeet/retekielekkeet",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "retentiokysta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rete-tappi/retetappi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "reticulum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "retikkelisäie",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "retikulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "retikuliini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "reunusrakkula",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "reunusvakuoli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rhizomesomelia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rice body",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rigor mortis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rinofyyma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "RITA/RIMA (valtimoita, oikea)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rocker bottom",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rod-tyyppinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Rokitansky-Aschoff -sinukset",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "roomalainen silta/Roman bridge",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Rosai–Dorfmanin tauti / Rosai–Dorfmanin histiosyytit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Rosenthal-fiiberi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "round cell -komponentti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "RS-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rudimentti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ruoansulatus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "rupioidi psoriasis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Rushtonin kappale / Rushton body",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "RYR-1",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ryvästymät",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sactosalpinx",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sagittaalisuuntainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sahanterämäinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sakkulaarinen aneurysma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "salpingitis isthmica nodosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sandaalirako",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sappikivitauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sarkolemma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sarkomatoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "satellitoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Schaumannin kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Schiller-Duval",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Schneiderian papilloma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "schwannooma (hermotuppituumori)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "scybala/skybala",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SDH(-hyperreaktiivinen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SD-raja (standard deviation)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sebaceous hyperplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "seborrooinen keratoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sebosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sekreetio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sekreetti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sella",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sella turcica",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sementtilinja (luussa)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "seminaalivesikkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sentraalinen efekti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sentrilobulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sentroblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sentrosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "septa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "septum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "septum pellucidum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SERCA1",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "serosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Sertolin solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "seröösi karsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sex cord stromal tumor",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sialometaplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sidekudossepta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sidekudosstrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sideroblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "siderofagi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "siementubulus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sileälihas(solukko)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sileälihasaktiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sinettisormussolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sinus histiocytosis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sinushistiosytoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sinusoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sinusrakenne",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SIOP-luokitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sisätuma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sisätumat",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Sjögrenin syndrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "skip-leesio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sklerosoitunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sklerosoiva adenoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Sk-PADIhot",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "skvamotisaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SMA-tyyppinen atrofia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Solitary Fibrous Tumor (SFT)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "soludebris",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "solulinja",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SOX9 (geeni/proteiini)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "SOX9-mutaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "spermatogeneesi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "spiraaliarteria",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "spiradenooma / spiradenoma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "spiroketoosi (dyskrominen)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Spitz nevus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Splendore-Hoeppli-ilmiö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "split-vakuoli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "spongioosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "spy glass -näyte",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "squamous eddies",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "stadium menstrualis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "stanssibiopsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "STIC (serous tubal intraepithelial carcinoma)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "storiforminen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "stranguloiva",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "stratum lucidum (orvaskeden kirkassolukerros)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "striatum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "strooma (kudos)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "stroomapapillit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "struumakyhmy",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "stucco-keratoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subakuutti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subaraknoidaalitila",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subcutis / subkutis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subendokardiaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subependymaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subepidermaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subkarinaalinen (subcarinal)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subkoriaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subkortikaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "submucosa / submukoosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "submukosaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subsarkolemma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "subsarkolemmaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "substantia nigra",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sukkulatumainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "superiorinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "suprabasaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "surgical ciliated cyst",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sustentakulaarisolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "suurisoluinen karsinooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Sydney-luokitus (gastriitti)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "syiden kokovariaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sylindrooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "synaptofysiini",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "synoviaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "synsytiaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "synsytiotrofoblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sytologinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sytopenia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sytoplastinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sytosentrifuugivalmiste",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sytotekvalmiste",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "sytotrofoblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "syytyyppijakauma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "t(14;18)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tall cell",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tangeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tangentiaalisesti leikkautunut",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "target-fiiberit",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "targetoidi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Taussig-Bing -kompleksi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "TBB (transbronchial biopsy)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "TCRBCL",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "TDP-43",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "teekasolukko",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tel(e)angiektaattinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tel(e)angiektasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "teratooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "terminaali-ileum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tervekudosmarginaali",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "theca-reaktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "thymus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tiitteri/titteri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tinea (sienitauti)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tingible-kappale",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "TNM-luokitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "toksisiteetti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tomaculi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "torakaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Touton-solu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trabekkeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trabekulaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "transmuraalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "transversaalisuuntainen leike",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trigonum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trikilemmooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "triploidia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trisomia 13",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trofoblasti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "trombosytopoieesi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "truncus arteriosus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "truncus brachiocephalicus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tubaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tubulovillöösi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tufted angioma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tulehdussoluinfiltraatti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tulehdussolulisä",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tuma-atypia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tumapleomorfia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tumasto",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tumorlet",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tunica albuginea",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "turvoke",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tuumorikylvö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tymooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tyvitumake",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tyypin I / II lihassyyt",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tyypin II pneumosyytti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "tähtitaivasmakrofagi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Ubiquitin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "UIP",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ulna",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "ulnaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "uncus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "unikameraalinen luukysta",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Unnan luomi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "uretra-aukko",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "uroteeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "uroteelimetaplasia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "uroteliaalinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "UTROSCT (uterine tumor resembling ovarian sex cord tumor)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vaahtosytoplasmainen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Vacora-biopsia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vakuoli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "valekerrostuva epiteeli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "valoelastoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Van Nuys III",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vasa vasorum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vaskuliitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vaskulopatia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vastus lateralis -lihas",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vatsapaita",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "VCP",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vegetaatio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vena cava inferior",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vena cava superior",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "venous lake",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "venuli",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Verhoeff- van Gieson -värjäys (VVG)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "verisuoni-invaasio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "veriviemäri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vermis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Verocay (body)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "verrukoottinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "verumontanum",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vesitesti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vierasesinejättisolu",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vierasesinereaktio",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "villiitti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "villoglandulaarinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "villusarkkitehtuuri",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "villööttinen",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Vimentin",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "viruseksanteema",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "viskeraalipleura",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "vitaali",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "von Brunnin saareke",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "värekarva",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Waldenströmin makroglobulinemia",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Wallerian degeneration",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Walthardin nestit/restit (Walthard cell nests/rests)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Warthin-Starry-värjäys",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "warty dyskeratooma",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Wegenerin granulomatoosi",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Weiss-luokitus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Welanderin tauti",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Western blot -tutkimus",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Whartonin hyytelö",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Whipple(-preparaatti)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "wide margins/wide-marginaali",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Wilmsin tuumori",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "wind-swept (sytoplasmassa)",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "Zahnin viivat",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "zona fasciculata",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "zona glomerulosa",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  },
+  {
+    "text": "zona reticularis",
+    "source": "patologia",
+    "tags": [
+      "patologia"
+    ]
+  }
+]

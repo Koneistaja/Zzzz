@@ -1,0 +1,83 @@
+[
+{
+    "version": "2.0.1",
+    "date": "2025-10-08",
+    "tagline": "Päivityksiä",
+    "changes": [
+      {"type": "Muutos", "text": "Forssan viestipiikkilista päivitetty vastaamaan uutta ohjetta."},
+      {"type": "Lisäys", "text": "Lisätty 26rama kardiologian sanelijoihin, sekä päivystyksen ohjeeseen maininta TÄKY-merkinnästä."}
+    ],
+    "links": []
+  },
+{
+    "version": "2.0.0",
+    "date": "2025-09-23",
+    "tagline": "Uusi ilme!",
+    "changes": [
+      {"type": "Muutos", "text": "Sivun ulkoasu oli ihan kamala, joten tein uuden."}
+    ],
+    "links": []
+  },
+    {
+    "version": "1.2.1",
+    "date": "2025-09-22",
+    "tagline": "Sanastot parsittu!",
+    "changes": [
+      {"type": "Poisto", "text": "Poistin yli 500 duplikaattia ja muuta huonoa termiä sanastosta, ja lisäsin yhden uuden."},
+      {"type": "Mutta", "text": "Moni termi on edelleen väärän erikoisalan alla, saa nähdä korjaanko niitä koskaan."}
+    ],
+    "links": []
+  },
+{
+    "version": "1.2.0",
+    "date": "2025-09-17",
+    "tagline": "Sanastot!",
+    "changes": [
+      {"type": "Lisäys", "text": "Importtasin Teamsista sanastot tänne koska Teamsin kautta noiden Wordien käyttö on aivan tervaa."}
+    ],
+    "links": []
+  },
+{
+    "version": "1.1.0",
+    "date": "2025-08-25",
+    "tagline": "Lisäyksiä ja nyt online-versio!",
+    "changes": [
+      {"type": "Muutos", "text": "Forssan lastenpolin uusi vastaanottaja ja perinnöllisyyslääkärilähetteen ohjeistus lisätty viestiohjeeseen."},
+      {"type": "Muutos", "text": "Vihdoin versio jota voin päivittää ilman, että tarvii lähettää jokaiselle käyttäjälle omaa uutta kopiota!"}
+    ],
+    "links": []
+  },
+{
+    "version": "1.0.2",
+    "date": "2025-08-01",
+    "tagline": "Lisää pieniä hinkkauksia.",
+    "changes": [
+      {"type": "Muutos", "text": "Vähän säädin nätimmäksi eri alueita."},
+      {"type": "Lisäys", "text": "Lisäsin Forssan lähetteitä koskevan maksusitoumuslausekkeen ohjeistuksen."}
+    ],
+    "links": []
+  },
+  {
+    "version": "1.0.1",
+    "date": "2025-07-29",
+    "tagline": "Pieniä korjauksia ja lisäyksiä.",
+    "changes": [
+      {"type": "Muutos", "text": "Korjasin loppuarvio-ohjetta."},
+      {"type": "Lisäys", "text": "Lisäsin RADI-ohjeen ja tämän versiohistorian."}
+    ],
+    "links": []
+  },
+  {
+    "version": "1.0.0",
+    "date": "2025-07-22",
+    "tagline": "Tiedosto luotu",
+    "changes": [
+      {"type": "Alku", "text": "Tehty tämän tiedoston eka versio."}
+    ],
+    "links": []
+  }
+]
+
+
+
+

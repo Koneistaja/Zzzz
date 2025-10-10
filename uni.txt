@@ -1,0 +1,83 @@
+2PV
+AHI (koko yölle, selällään, kyljellään)
+AI (apneaindeksi)
+AirFit N10 -nenämaski
+AirSense 10 -laite
+AirView
+Aktigrafia
+Akudocs (sähköinen dokumenttiarkisto)
+alaarikollapsi
+Amara View -maski
+ApneaLink (home sleep testing device)
+Astrup (arvoja: Be, pCO2, HCO3, pH)
+ASV (adaptiivinen servoventilaattori / -ventilaatio)
+AutoSet
+Bi-Flex
+bruksismi (hampaiden narskutus)
+CAI (central apnea index)
+Cheyne-Stokes-hengitys (CS tai CSR eli Cheyne-Stokes respiration)
+cmH2O (vesisenttimetri)
+CPAP-hoito/-laite
+CPAP AutoSet -laite/-paineet
+CS-laite
+DentiTrac (seurainlaite hoitokomplianssiin hengityslaitteissa)
+Embla/Embletta
+Emfit QS -uni- ja palautumismittari
+EPAP (expiratory positive airways pressure)
+EPR (uloshengityksenaikainen paineenlasku)
+EtCO2 (uloshengityksen hiilidioksidipitoisuus)
+GHQ-12 0-12 (General Health Questionnaire)
+HumidAir-kostutin
+hypopnea
+ihohiilidioksidi
+kefalomeeting
+kefalometria
+KT (käyttötehokkuus)
+Le Fort -osteotomia
+LWT fatigue test
+Mallampati-asteikko (I-IV)
+mentolabiaalinen
+MSLT (Multiple Sleep Latency Test)
+MURT-reaktioaikatutkimus (Multiple Unprepared Reaction Time)
+MWT-tutkimus (hereilläpysymistutkimus)
+myAir-etäkäyttösovellus
+NOX-T3-rekisteröintilaite
+NREM/non-REM
+ODI3
+ODI4 (Oxygen desaturation index)
+online-CPAP/CPAP-hoito online
+OSLER-vireystilatutkimus (Oxford Sleep Resistance Test)
+patja-spiking
+PG (polygrafia)
+PLM-indeksi (periodittainen jalkojen liikehdintä)
+PS (pressure support)
+PSG, polysomnografia
+ramp-toiminto (CPAP)
+RBD (REM Behavior Disorder)
+REM
+RemLogic
+Remote Analysis Oy
+REMstar
+RDI (respiratory disturbance index)
+ResScan
+retrognatia, retrognaattinen
+retrusiivinen, retrusiiviset kasvonpiirteet
+REI = respiratory event index
+RI = respiratory index
+S9-laite (AutoSet ja H5i-kostutin)
+SERVE-HF-tutkimus
+sierainmaski
+SoftGel-maski (kokomerkintänä S-M-L?)
+sympatikotonia
+T90-arvo
+tcCO2 (transkutaaninen hiilidioksidi)
+TIB (time in bed)
+transkutaaninen hiilidioksidi
+TST (total sleep time)
+UARS (upper airway resistance syndrome)
+Ultra Mirage -maski
+Unesta (yksityinen klinikka)
+UPPP-leikkaus (uvulopalatopharyngoplastia)
+vesisenttimetri (cmH2O)
+VPAP-laite
+yöoksimetria
