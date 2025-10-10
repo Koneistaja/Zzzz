@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Sanastot</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 2rem; }
+    .controls { display: grid; gap: .75rem; grid-template-columns: 1fr 220px 120px; align-items: end; }
+    .controls label { font-size: .9rem; color: #444; }
+    input, select, button { padding: .55rem .6rem; font-size: 1rem; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+    th, td { border-bottom: 1px solid #ddd; padding: .65rem .5rem; vertical-align: top; }
+    th { text-align: left; cursor: pointer; user-select: none; }
+    .tag { display: inline-block; font-size: .8rem; padding: .15rem .4rem; border: 1px solid #ccc; border-radius: .5rem; margin: 0 .25rem .25rem 0; }
+    .muted { color: #666; font-size: .9rem; }
+  </style>
+</head>
+<body>
+  <h1>Sanastot</h1>
+
+  <div class="controls">
+    <div>
+      <label>Haku</label>
+      <input id="q" type="search" placeholder="Hae…" />
+    </div>
+    <div>
+      <label>Erikoisala</label>
+      <select id="tag">
+        <option value="">— kaikki erikoisalat —</option>
+      </select>
+    </div>
+    <div>
+      <button id="reset">Tyhjennä</button>
+    </div>
+  </div>
+
+  <div class="muted" id="meta"></div>
+
+  <table id="tbl">
+    <thead>
+      <tr>
+        <th data-key="text">Teksti ⬍</th>
+        <th data-key="source">Erikoisala ⬍</th>
+        <th>Tagit</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    // CONFIG: change or add more sources here
+    const DATA_SOURCES = [
+      'Data/uni.json', 'Data/allergiat.json', 'Data/foniatria.json', 'Data/gynekologia.json', 'Data/hampaat.json', 'Data/iho.json', 'Data/kardiologia.json', 'Data/kirurgia.json', 'Data/knk.json', 'Data/neurologia.json', 'Data/onkologia.json', 'Data/ortopedia.json', 'Data/patologia.json', 'Data/psyka.json', 'Data/silmat.json', 'Data/sisataudit.json'          // you can add 'data/list1.json', 'data/list2.json', ...
+    ];
+
+    let rows = [];
+    let sortKey = 'text';
+    let sortDir = 1; // 1 asc, -1 desc
+
+    const $q = document.getElementById('q');
+    const $tag = document.getElementById('tag');
+    const $reset = document.getElementById('reset');
+    const $tbody = document.querySelector('#tbl tbody');
+    const $meta = document.getElementById('meta');
+
+    async function loadAll() {
+      const results = await Promise.allSettled(
+        DATA_SOURCES.map(src => fetch(src).then(r => r.json()))
+      );
+      const merged = [];
+      for (const r of results) {
+        if (r.status === 'fulfilled') merged.push(...r.value);
+        else console.warn('Failed to load a data source:', r.reason);
+      }
+      rows = merged.map(x => ({
+        text: String(x.text || '').trim(),
+        source: String(x.source || '').trim(),
+        tags: Array.isArray(x.tags) ? x.tags.map(String) : []
+      }));
+      buildTagFilter(rows);
+      render();
+    }
+
+    function buildTagFilter(data) {
+      const tags = new Set();
+      data.forEach(r => r.tags.forEach(t => tags.add(t)));
+      const opts = ['<option value="">— kaikki erikoisalat —</option>']
+        .concat([...tags].sort().map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`));
+      $tag.innerHTML = opts.join('');
+    }
+
+    function render() {
+      const q = $q.value.trim().toLowerCase();
+      const tag = $tag.value;
+      const filtered = rows.filter(r => {
+        const matchesQ = !q || r.text.toLowerCase().includes(q) || r.source.toLowerCase().includes(q) || r.tags.some(t => t.toLowerCase().includes(q));
+        const matchesTag = !tag || r.tags.includes(tag);
+        return matchesQ && matchesTag;
+      }).sort((a, b) => {
+        const A = (a[sortKey] ?? '').toString().toLowerCase();
+        const B = (b[sortKey] ?? '').toString().toLowerCase();
+        return A < B ? -1 * sortDir : A > B ? 1 * sortDir : 0;
+      });
+
+      $tbody.innerHTML = filtered.map(r => `
+        <tr>
+          <td>${escapeHtml(r.text)}</td>
+          <td class="muted">${escapeHtml(r.source || '')}</td>
+          <td>${r.tags.map(t => `<span class="tag">${escapeHtml(t)}</span>`).join(' ')}</td>
+        </tr>
+      `).join('');
+
+      $meta.textContent = `${filtered.length} / ${rows.length} riviä`;
+    }
+
+    function escapeHtml(s) {
+      return s.replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+    }
+
+    // Sorting handlers
+    document.querySelectorAll('th[data-key]').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = th.getAttribute('data-key');
+        if (sortKey === key) sortDir *= -1; else { sortKey = key; sortDir = 1; }
+        render();
+      });
+    });
+
+    $q.addEventListener('input', render);
+    $tag.addEventListener('change', render);
+    $reset.addEventListener('click', () => { $q.value = ''; $tag.value = ''; render(); });
+
+    loadAll();
+  </script>
+</body>
+
+</html>
+
+
+
+
