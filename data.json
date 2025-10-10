@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Boris Lääkärisson",
+    "title": "ylilääkäri",
+    "location": "Tays neurokirurgia",
+    "approximation": "booris läägär"
+  },
+  {
+    "name": "Joku Isokiho",
+    "title": "sairaanhoitaja",
+    "location": "kirurgian poliklinikka",
+    "approximation": "jokui sokiho"
+  },
+  {
+    "name": "Kolmas Nimi",
+    "title": "erikoistuva lääkäri",
+    "location": "Meilahden käsikirurgia",
+    "approximation": "3. nimi"
+  }
+]
