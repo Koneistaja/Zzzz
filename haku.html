@@ -102,9 +102,9 @@
 </style>
 </head>
 <body>
-  <h1>Directory Search</h1>
+  <h1>Nimihaku</h1>
   <div class="search-box">
-    <input type="text" id="searchInput" placeholder="Search by name, title, or location..." />
+    <input type="text" id="searchInput" placeholder="Hae nimellä, tittelillä tai sijainnilla..." />
   </div>
   <div class="results" id="results"></div>
 
@@ -119,7 +119,7 @@
         renderResults(data);
       } catch (err) {
         document.getElementById('results').innerHTML = 
-          '<p class="no-results">Failed to load data.json 😔</p>';
+          '<p class="no-results">Failed to load data.json</p>';
       }
     }
 
@@ -128,7 +128,7 @@
       container.innerHTML = '';
 
       if (list.length === 0) {
-        container.innerHTML = '<p class="no-results">No results found.</p>';
+        container.innerHTML = '<p class="no-results">Ei tuloksia.</p>';
         return;
       }
 
@@ -137,8 +137,8 @@
         card.className = 'card';
         card.innerHTML = `
           <h2>${item.name}</h2>
-          <p><strong>Title:</strong> ${item.title}</p>
-          <p><strong>Location:</strong> ${item.location}</p>
+          <p><strong>Titteli:</strong> ${item.title}</p>
+          <p><strong>Sijainti:</strong> ${item.location}</p>
         `;
         container.appendChild(card);
       });
@@ -161,3 +161,4 @@
 </body>
 
 </html>
+
